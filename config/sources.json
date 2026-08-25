@@ -1,0 +1,145 @@
+[
+  {
+    "id": "prothom-alo-bn",
+    "name": "প্রথম আলো",
+    "englishName": "Prothom Alo",
+    "language": "bn",
+    "feedUrl": "https://www.prothomalo.com/feed/",
+    "websiteUrl": "https://www.prothomalo.com",
+    "priority": 10,
+    "badgeColor": "#D91A2A",
+    "enabled": true
+  },
+  {
+    "id": "daily-star-bn",
+    "name": "ডেইলি স্টার (বাংলা)",
+    "englishName": "The Daily Star (Bangla)",
+    "language": "bn",
+    "feedUrl": "https://bangla.thedailystar.net/rss.xml",
+    "websiteUrl": "https://bangla.thedailystar.net",
+    "priority": 9,
+    "badgeColor": "#0F4C81",
+    "enabled": true
+  },
+  {
+    "id": "daily-star-en",
+    "name": "The Daily Star",
+    "englishName": "The Daily Star",
+    "language": "en",
+    "feedUrl": "https://www.thedailystar.net/frontpage/rss.xml",
+    "websiteUrl": "https://www.thedailystar.net",
+    "priority": 9,
+    "badgeColor": "#0F4C81",
+    "enabled": true
+  },
+  {
+    "id": "jago-news",
+    "name": "জাগো নিউজ ২৪",
+    "englishName": "Jago News 24",
+    "language": "bn",
+    "feedUrl": "https://www.jagonews24.com/rss/rss.xml",
+    "websiteUrl": "https://www.jagonews24.com",
+    "priority": 8,
+    "badgeColor": "#E65100",
+    "enabled": true
+  },
+  {
+    "id": "dhaka-tribune",
+    "name": "Dhaka Tribune",
+    "englishName": "Dhaka Tribune",
+    "language": "en",
+    "feedUrl": "https://www.dhakatribune.com/feed/",
+    "websiteUrl": "https://www.dhakatribune.com",
+    "priority": 8,
+    "badgeColor": "#C62828",
+    "enabled": true
+  },
+  {
+    "id": "dhaka-post",
+    "name": "ঢাকা পোস্ট",
+    "englishName": "Dhaka Post",
+    "language": "bn",
+    "feedUrl": "https://www.dhakapost.com/rss/rss.xml",
+    "websiteUrl": "https://www.dhakapost.com",
+    "priority": 7,
+    "badgeColor": "#1565C0",
+    "enabled": true
+  },
+  {
+    "id": "risingbd",
+    "name": "রাইজিংবিডি",
+    "englishName": "RisingBD",
+    "language": "bn",
+    "feedUrl": "https://www.risingbd.com/rss/rss.xml",
+    "websiteUrl": "https://www.risingbd.com",
+    "priority": 7,
+    "badgeColor": "#2E7D32",
+    "enabled": true
+  },
+  {
+    "id": "prothom-alo-en",
+    "name": "Prothom Alo (English)",
+    "englishName": "Prothom Alo (English)",
+    "language": "en",
+    "feedUrl": "https://en.prothomalo.com/feed/",
+    "websiteUrl": "https://en.prothomalo.com",
+    "priority": 7,
+    "badgeColor": "#D91A2A",
+    "enabled": true
+  },
+  {
+    "id": "bdnews24",
+    "name": "বিডিনিউজ টোয়েন্টিফোর",
+    "englishName": "bdnews24",
+    "language": "bn",
+    "feedUrl": "https://bangla.bdnews24.com/rss.xml",
+    "websiteUrl": "https://bangla.bdnews24.com",
+    "priority": 8,
+    "badgeColor": "#C2185B",
+    "enabled": false
+  },
+  {
+    "id": "jugantor",
+    "name": "যুগান্তর",
+    "englishName": "Jugantor",
+    "language": "bn",
+    "feedUrl": "https://www.jugantor.com/feed/rss.xml",
+    "websiteUrl": "https://www.jugantor.com",
+    "priority": 7,
+    "badgeColor": "#4527A0",
+    "enabled": false
+  },
+  {
+    "id": "kaler-kantho",
+    "name": "কালের কণ্ঠ",
+    "englishName": "Kaler Kantho",
+    "language": "bn",
+    "feedUrl": "https://www.kalerkantho.com/rss.xml",
+    "websiteUrl": "https://www.kalerkantho.com",
+    "priority": 7,
+    "badgeColor": "#D84315",
+    "enabled": false
+  },
+  {
+    "id": "samakal",
+    "name": "সমকাল",
+    "englishName": "Samakal",
+    "language": "bn",
+    "feedUrl": "https://samakal.com/feed/rss.xml",
+    "websiteUrl": "https://samakal.com",
+    "priority": 7,
+    "badgeColor": "#00695C",
+    "enabled": false
+  },
+  {
+    "id": "ittefaq",
+    "name": "ইত্তেফাক",
+    "englishName": "Ittefaq",
+    "language": "bn",
+    "feedUrl": "https://www.ittefaq.com.bd/rss.xml",
+    "websiteUrl": "https://www.ittefaq.com.bd",
+    "priority": 7,
+    "badgeColor": "#37474F",
+    "enabled": false
+  }
+]
